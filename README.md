@@ -1,7 +1,7 @@
 ## LoanVault | USB-Secured Ornament Loan Management System
 ![ChatGPT Image Jun 28, 2025, 06_22_57 PM](https://github.com/user-attachments/assets/81963d58-e40d-46b7-aca8-436e3ba5fee1)
 
-
+My Contributions: Authentication system, database schema (SQLite), QR-PDF flow.
 A fully offline, USB-authenticated system for managing ornament-based loans. Built with React and Node.js, this project emphasizes data privacy, security through hardware tokens (USB), and smart automation for loan handling.
 
 🧩 Project Highlights
