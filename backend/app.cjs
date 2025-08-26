@@ -19,12 +19,12 @@ const storage = multer.diskStorage({
 });
 
 const upload = multer({ storage: storage });
-// Ensure uploads folder exists
+// Ensures that uploads folder exists
 if (!fs.existsSync('uploads')) {
   fs.mkdirSync('uploads');
 }
 
-// DB in local folder (no USB)
+// DB in local folder (No USB)
 const DB_FILE = path.join(__dirname, 'database.sqlite');
 
 const db = new sqlite3.Database(DB_FILE);
