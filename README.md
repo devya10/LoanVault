@@ -4,19 +4,7 @@
 My Contributions: Authentication system, database schema (SQLite), QR-PDF flow.
 A fully offline, USB-authenticated system for managing ornament-based loans. Built with React and Node.js, this project emphasizes data privacy, security through hardware tokens (USB), and smart automation for loan handling.
 
-🧩 Project Highlights
-This system is designed to be used in environments where internet connectivity isn’t guaranteed, and data security is critical. It works entirely with local hardware (USB), encrypts all data, and only allows operations if the correct USB device is connected.Perfect! Here’s the updated `README.md` with everything you’ll need to publish a **developer-friendly**, **authentic-looking**, and professional GitHub project — including:
 
-* ✅ Polished intro
-* 🖼️ Optional banner placeholder
-* 🎞️ GIF demo section
-* 📦 Features
-* ⚙️ Setup instructions
-* 📁 Folder structure
-* 🤝 Contribution guidelines
-* 🪪 License
-
----
 
 ```markdown
 # USB-Secured Ornament Loan Management System
@@ -90,7 +78,11 @@ This system is designed to be used in environments where internet connectivity i
 │   └── main.jsx
 
 ````
-
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind, Axios  
+- **Backend:** Node.js, Express.js, SQLite  
+- **Infra & DevOps:** AWS EC2, Docker, Nginx, Terraform, GitHub Actions  
+- **Other:** LangChain, LLaMA-3, crypto-js, ExcelJS 
 ---
 
 ## 🚀 Getting Started
@@ -153,9 +145,14 @@ Feel free to use it, extend it, or build upon it with proper credits.
 
 ## 👨‍💻 Developed By
 
-**Nikunj Agarwal**
+**Nikunj Agarwal** , **Devya Gupta**
 🔗 [LinkedIn](https://www.linkedin.com/in/nikunj-agarwal-326b562a4)
+🔗 [LinkedIn](https://www.linkedin.com/in/devya-gupta-b46b83254)
+
 💻 [GitHub](https://github.com/nikunj-10)
+💻 [GitHub](https://github.com/devya10)
+
+
 
 ---
 
